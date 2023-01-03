@@ -1,2 +1,2 @@
 # sandine
-Imaginary restaurant's website
+Imaginary restaurant called SanDine and their website
